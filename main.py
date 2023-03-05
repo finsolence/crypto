@@ -26,7 +26,7 @@
 crypto = Crypto()'''
 '''from binance import Client
 
-client = Client('P1ignMVUEiKt4npDg1DdlogDlt8AjUxF0pjCS7gdmc4kAuAQeXXvZ7nTVfH3WWyz', 'pXzgQy1BIQXTZVielh4nWgTljH7Zw6Y8msHRdcUqehcutHEGaTVBo9Cyin3g1n1q')
+client = Client('')
 
 TOTAL_PROFIT = 0.0
 
