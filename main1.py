@@ -8,7 +8,7 @@ from binance.client import Client
 import numpy as np
 from tradingview_ta import TA_Handler, Interval, Exchange
 
-client = Client('u9RjAIzFv9CNogMtK3Jig2DSjy9y392cgekokKwwnphKPUmYl0r9sRhh1JLJafFV','CYcrUEGNfEkAiXYGAmEIaeqN68P6m9HLkfKVCR2iLb6Ah7WDZyrtJh4hMxX015RY')
+client = Client('','')
 '''ST = 7
 LT = 25
 
